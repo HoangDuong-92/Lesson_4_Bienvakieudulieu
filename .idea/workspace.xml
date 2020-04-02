@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c1a196b-504d-490e-a6e3-ac5a33b82c1e" name="Default Changelist" comment="" />
+    <list default="true" id="4c1a196b-504d-490e-a6e3-ac5a33b82c1e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Area of rectangle.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Circle area.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Diameter of a circle.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium score.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dientich.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +22,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZzMaSzC4AdGlyYZNMH7EH5LjFd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,7 +35,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Project-4-variables and data types" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -48,7 +59,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585837532575</updated>
-      <workItem from="1585837534131" duration="2602000" />
+      <workItem from="1585837534131" duration="3202000" />
+      <workItem from="1585843657921" duration="661000" />
+      <workItem from="1585844417107" duration="9000" />
+      <workItem from="1585844440478" duration="16000" />
     </task>
     <servers />
   </component>
@@ -56,9 +70,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="738" y="99" key="FileChooserDialogImpl" timestamp="1585837708771">
+    <state x="738" y="99" key="FileChooserDialogImpl" timestamp="1585844454281">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="738" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1585837708771" />
+    <state x="738" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1585844454281" />
   </component>
 </project>
